@@ -1,3 +1,4 @@
-f=open('qqq.txt', 'w')
-f.write('Hello world')
-f.close()
+print("Hello world")
+print("Hello world")
+
+
